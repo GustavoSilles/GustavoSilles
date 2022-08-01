@@ -35,4 +35,4 @@
     
     
   </div>
- ![snake animation](https://github.com/GustavoSilles/GustavoSilles)
+ ![Snake animation](https://github.com/GustavoSilles/GustavoSilles/blob/output/github-contribution-grid-snake.svg)
