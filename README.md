@@ -1,8 +1,7 @@
-## Olá! Eu sou a Gustavo Drohobeczky Silles
+## Olá! Eu sou o Gustavo Drohobeczky Silles
 
-- 🌱 Cursando técnico em Análise e Desenvolvimento de Sistemas no SENAI-SC
+- 🌱 Cursando: técnico em Análise e Desenvolvimento de Sistemas no SENAI-SC
 - 💬 Contate-me pelo email: sillesgustavo05@gmail.com
-- 😄 Pronouns: RO/CK
 
 <div display: inline_block>
   <a href = "https://github.com/GustavoSilles">
