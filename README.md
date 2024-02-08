@@ -26,12 +26,4 @@
 </div>
   
   
- ##
- 
-  <div>
-    <h3>♦ Social Networks</h3>
-  <a href = "https://www.linkedin.com/in/gustavo-silles-a54583222/" target ="-blank"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank" > </a>
-  
- ![Snake animation](https://github.com/GustavoSilles/GustavoSilles/blob/output/github-contribution-grid-snake.svg)
-  </div>
  
