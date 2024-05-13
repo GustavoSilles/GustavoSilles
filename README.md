@@ -2,14 +2,6 @@
 
 - 🌱 Cursando: Sistemas de Informação na Unisul
 - 💬 Contate-me pelo email: sillesgustavo05@gmail.com
-
-<div display: inline_block>
-  <a href = "https://github.com/GustavoSilles">
-   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=GustavoSilles&show_icons=true&theme=dark">
-  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSilles&layout=compact&theme=dark">
-
- 
- </div>
   
 <div style="display: inline_block"><br>
   <h3>♦ Languages </h3>
