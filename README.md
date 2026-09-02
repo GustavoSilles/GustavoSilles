@@ -2,8 +2,9 @@
 
 
 - 🌱 Cursando: Sistemas de Informação na Unisul
+- 💼 Portfólio: [gustavosilles.com.br](https://gustavosilles.com.br)
 - 💬 Contate-me pelo email: sillesgustavo05@gmail.com
-  
+
 <div style="display: inline_block"><br>
   <h3>♦ Languages </h3>
   <img align = "center" alt = "stef-js" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -19,6 +20,6 @@
 
   <div>
     <h3>♦ Social Networks</h3>
-  <a href = "https://www.linkedin.com/in/gustavo-silles-a54583222/" target ="-blank"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank" > </a>
+  <a href = "https://gustavosilles.com.br" target ="_blank"> <img src ="https://img.shields.io/badge/Portfolio-0c0c0c?style=for-the-badge&logo=vercel&logoColor=white" target ="_blank" > </a>
+  <a href = "https://www.linkedin.com/in/gustavo-silles-a54583222/" target ="_blank"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank" > </a>
   </div>
- 
